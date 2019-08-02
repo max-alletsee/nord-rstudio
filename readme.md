@@ -2,7 +2,7 @@
 
 A RStudio port of the arctic, north-bluish clean and elegant [Nord VS Code theme](https://github.com/arcticicestudio/nord-visual-studio-code) by [Arctic Ice Studio](https://github.com/arcticicestudio), based on the [Nord](https://www.nordtheme.com/) color palette.
 
-![Nord syntax highlighting in RStudio](https://raw.githubusercontent.com/alletsee/nord-rstudio/master/img/nord-rstudio-full.png)
+![Nord syntax highlighting in RStudio](img/nord-rstudio-full.png)
 
 ## Installation
 
