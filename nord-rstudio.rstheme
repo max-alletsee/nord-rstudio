@@ -92,8 +92,8 @@
   color: var(--nord3);
 }
 
-.ace_keyword {
-  color: var(--nord4);
+.ace_keyword, ace_meta {
+  color: var(--nord9);
 }
 
 .ace_keyword.ace_operator {
@@ -229,8 +229,14 @@
   z-index: -1;
   background-color: var(--nord2);
 }
+
 .ace_console_error {
   background-color: var(--nord2);
+  color: var(--nord11) !important;
+}
+
+#rstudio_console_output .ace_constant.ace_language {
+  color: var(--nord11) !important;
 }
 
 .terminal {
